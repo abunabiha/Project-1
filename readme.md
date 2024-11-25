@@ -6,8 +6,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, Java
-- **Frameworks**: React, Django, Flask
+- **Languages**: Python, php, html
+- **Frameworks**: Django, Flask
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, VSCode
 
